@@ -1,0 +1,49 @@
+.heading
+{
+  width: 100%;
+  margin: 0px;
+  box-shadow:5px 5px 5px grey;
+  font-size: 30px;
+}
+.heading_div
+{
+  background: white ; 
+  border-radius: 20px; 
+  color: black;
+  box-shadow:5px 5px 5px grey;
+  width: 550px;
+  height: 150px;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 15px;
+}
+.heading_div2
+{
+  font-size: 18px;
+  font-weight:normal;
+}
+.result
+{
+  box-shadow:5px 5px 5px grey;
+  font-size: 20px;
+  white-space: pre-line;
+  padding: 10px;
+}
+.copy_right_footer
+{
+  bottom: 0;
+  position: fixed;
+  background-color: grey;
+  font-size: 30px;
+  color: white;
+  font-family: 'Hi Melody', cursive;
+  width: 100%;
+  text-align: center;
+}
+
+canvas{
+  border: 5px dashed rgb(96, 60, 255);
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px grey;
+  margin-top: 200px;
+}
